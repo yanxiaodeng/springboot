@@ -1,0 +1,36 @@
+[INFO ] 2019-12-02 15:31:25 [main] c.e.s.Springboot3LoggingApplicationTests - Starting Springboot3LoggingApplicationTests on DESKTOP-B6G4PT1 with PID 13196 (started by eden in D:\soft\IntelliJIDEA\workplace\springboot-3-logging)
+[INFO ] 2019-12-02 15:31:25 [main] c.e.s.Springboot3LoggingApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2019-12-02 15:31:25 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-12-02 15:31:25 [main] c.e.s.Springboot3LoggingApplicationTests - Started Springboot3LoggingApplicationTests in 7.175 seconds (JVM running for 10.083)
+[INFO ] 2019-12-02 15:31:25 [main] c.e.s.Springboot3LoggingApplicationTests - 这是info日志...
+[INFO ] 2019-12-02 15:31:25 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-12-02 15:34:22 [main] c.e.s.Springboot3LoggingApplicationTests - Starting Springboot3LoggingApplicationTests on DESKTOP-B6G4PT1 with PID 13728 (started by eden in D:\soft\IntelliJIDEA\workplace\springboot-3-logging)
+[INFO ] 2019-12-02 15:34:22 [main] c.e.s.Springboot3LoggingApplicationTests - The following profiles are active: dev
+[INFO ] 2019-12-02 15:34:22 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-12-02 15:34:22 [main] c.e.s.Springboot3LoggingApplicationTests - Started Springboot3LoggingApplicationTests in 5.732 seconds (JVM running for 8.29)
+[INFO ] 2019-12-02 15:34:22 [main] c.e.s.Springboot3LoggingApplicationTests - 这是info日志...
+[INFO ] 2019-12-02 15:34:22 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-12-02 15:35:32 [main] c.e.s.Springboot3LoggingApplicationTests - Starting Springboot3LoggingApplicationTests on DESKTOP-B6G4PT1 with PID 4944 (started by eden in D:\soft\IntelliJIDEA\workplace\springboot-3-logging)
+[INFO ] 2019-12-02 15:35:32 [main] c.e.s.Springboot3LoggingApplicationTests - The following profiles are active: dev
+[INFO ] 2019-12-02 15:35:32 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-12-02 15:35:32 [main] c.e.s.Springboot3LoggingApplicationTests - Started Springboot3LoggingApplicationTests in 5.634 seconds (JVM running for 7.912)
+[INFO ] 2019-12-02 15:35:32 [main] c.e.s.Springboot3LoggingApplicationTests - 这是info日志...
+[INFO ] 2019-12-02 15:35:32 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-12-02 15:39:37 [main] c.e.s.Springboot3LoggingApplicationTests - Starting Springboot3LoggingApplicationTests on DESKTOP-B6G4PT1 with PID 2704 (started by eden in D:\soft\IntelliJIDEA\workplace\springboot-3-logging)
+[INFO ] 2019-12-02 15:39:37 [main] c.e.s.Springboot3LoggingApplicationTests - The following profiles are active: dev
+[INFO ] 2019-12-02 15:39:37 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-12-02 15:39:37 [main] c.e.s.Springboot3LoggingApplicationTests - Started Springboot3LoggingApplicationTests in 5.626 seconds (JVM running for 7.665)
+[INFO ] 2019-12-02 15:39:37 [main] c.e.s.Springboot3LoggingApplicationTests - 这是info日志...
+[INFO ] 2019-12-02 15:39:37 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-12-02 15:41:12 [main] c.e.s.Springboot3LoggingApplicationTests - Starting Springboot3LoggingApplicationTests on DESKTOP-B6G4PT1 with PID 9724 (started by eden in D:\soft\IntelliJIDEA\workplace\springboot-3-logging)
+[INFO ] 2019-12-02 15:41:12 [main] c.e.s.Springboot3LoggingApplicationTests - The following profiles are active: dev
+[INFO ] 2019-12-02 15:41:12 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-12-02 15:41:12 [main] c.e.s.Springboot3LoggingApplicationTests - Started Springboot3LoggingApplicationTests in 5.458 seconds (JVM running for 7.835)
+[INFO ] 2019-12-02 15:41:12 [main] c.e.s.Springboot3LoggingApplicationTests - 这是info日志...
+[INFO ] 2019-12-02 15:41:12 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-12-02 15:42:32 [main] c.e.s.Springboot3LoggingApplicationTests - Starting Springboot3LoggingApplicationTests on DESKTOP-B6G4PT1 with PID 11920 (started by eden in D:\soft\IntelliJIDEA\workplace\springboot-3-logging)
+[INFO ] 2019-12-02 15:42:32 [main] c.e.s.Springboot3LoggingApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2019-12-02 15:42:32 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-12-02 15:42:32 [main] c.e.s.Springboot3LoggingApplicationTests - Started Springboot3LoggingApplicationTests in 5.336 seconds (JVM running for 7.819)
+[INFO ] 2019-12-02 15:42:32 [main] c.e.s.Springboot3LoggingApplicationTests - 这是info日志...
+[INFO ] 2019-12-02 15:42:32 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

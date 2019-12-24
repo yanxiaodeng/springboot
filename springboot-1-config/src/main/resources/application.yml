@@ -1,0 +1,16 @@
+server:
+  port: 8081
+
+
+#person:
+#    lastName: eden
+#    age: 18
+#    boss: false
+#    birthday: 2010/4/22
+#    maps: {k1: v1,k2: v2}
+#    lists:
+#      - yy
+#      - yanyin
+#    dog:
+#      name: uu
+#      age: 2

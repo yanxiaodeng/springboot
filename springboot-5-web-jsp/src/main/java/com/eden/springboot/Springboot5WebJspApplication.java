@@ -1,0 +1,13 @@
+package com.eden.springboot;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Springboot5WebJspApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(Springboot5WebJspApplication.class, args);
+    }
+
+}
